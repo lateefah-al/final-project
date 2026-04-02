@@ -67,8 +67,8 @@ This procedure applies to individuasl preparing pizza using standard kitchen equ
 * Place the dough in a bowl coated with teaspoon of oil
 * Cover the bowl with a plastic wrap or a damp towel
 *  Let the dough sit in a warm spot for 90 - 120 minutes or unti it has doubled in size
-
-![Pizza Proof](pizzapoof.jpg)
+  
+ ![Pizza Proof](pizzapoof.jpg)
 
  *Figure 2:Proofing of the dough*
 
