@@ -79,6 +79,7 @@ This procedure applies to individuasl preparing pizza using standard kitchen equ
 ### Step 5: Shape the Dough 
 * Divide the dough, and gently press it into a circular shape using your fingertips
 * Avoid using a rolling pin excessively, as it may
+  
 ![Shaping the dough](shapedough.jpg)
 
 *Figure 3: Shaping of the dough with fingertips*
