@@ -67,7 +67,9 @@ This procedure applies to individuasl preparing pizza using standard kitchen equ
 * Place the dough in a bowl coated with teaspoon of oil
 * Cover the bowl with a plastic wrap or a damp towel
 *  Let the dough sit in a warm spot for 90 - 120 minutes or unti it has doubled in size
+
 ![Pizza Proof](pizzapoof.jpg)
+
  *Figure 2:Proofing of the dough*
 
 ### Step 4: Preheat the Oven 
@@ -78,6 +80,8 @@ This procedure applies to individuasl preparing pizza using standard kitchen equ
 * Divide the dough, and gently press it into a circular shape using your fingertips
 * Avoid using a rolling pin excessively, as it may
 ![Shaping the dough](shapedough.jpg)
+
+*Figure 3: Shaping of the dough with fingertips*
 
 ### Step 6: Add Sauce 
 * Spread a thin layer of tomato sauce evenly over the dough.
@@ -101,7 +105,11 @@ This procedure applies to individuasl preparing pizza using standard kitchen equ
 * Remove the pizza using oven mitts, and allow it to cool for 2 - 3 minutes.
 * Slice using a knife or a pizza cutter, and serve.
 * Cooling helps the cheese set for cleaner slices.
+
 ![Final Result](finalpizza.jpg)
+
 *Figure 4: Final Product of Pizza*
 
 ## 5. Process Flow 
+![Pizza Process Flow](processflow.png)
+*Figure 5: Process flow diagram for homemade pizza perparation*
