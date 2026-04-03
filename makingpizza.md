@@ -1,116 +1,199 @@
-# Standard Operating Procedure for Preparing a Homemade Pizza in a Residential Kitchen
-**Author: Group 5**
-**Reviewer: Felix**
-**Date: April 1, 2026**
-**Version: 1.0**
+# Standard Operating Procedure (SOP): Homemade Pizza Preparation
 
-## Approval Table 
+---
 
-| Name    | Role     | Signature | Date         |
-|---------|----------|-----------|--------------|
-| Group 5 | Author   |           | April 1, 2026 |
-| Felix   | Reviewer |           |              |
+**Document Title:** Standard Operating Procedure for Homemade Pizza Preparation  
+**Version:** 1.0  
+**Date:** April 1, 2026  
+**Prepared By:** Group 5  
+**Reviewed By:** Felix  
 
-## Revision History 
-| Version | Date         | Description               | Author   |
-|--------|--------------|---------------------------|----------|
-| 1.0    | April 1, 2026 | Initial document creation | Group 5  |
+---
 
-## 1. Overview
-### Purpose
-The purpose of this document is to outline the standardized procedure for preparing a homemade pizza to ensure consistency, quality, and food safety. 
+## 1. Purpose
 
-### Scope 
-This procedure applies to individuasl preparing pizza using standard kitchen equipment in a residential setting. The objective is to ensure consistent results.
+This Standard Operating Procedure (SOP) establishes a consistent and repeatable method for preparing homemade pizza in a home kitchen setting. It ensures food quality, safety compliance, and efficient workflow management while producing two distinct pizza varieties: vegetarian and BBQ chicken.
 
+---
 
-## 2. Accountability Matrix (RACI)
+## 2. Scope and Objectives
 
-| Task                    | Responsible (R) | Accountable (A) | Consulted (C)      | Informed (I)      |
-|-------------------------|----------------|------------------|--------------------|-------------------|
-| Gather ingredients      | Prep Cook      | Head Cook        | Household Members  | —                 |
-| Prepare dough           | Prep Cook      | Head Cook        | —                  | Household Members |
-| Preheat oven            | Prep Cook      | Head Cook        | —                  | —                 |
-| Shape dough             | Prep Cook      | Head Cook        | —                  | —                 |
-| Add sauce & toppings    | Prep Cook      | Head Cook        | Household Members  | —                 |
-| Bake pizza              | Prep Cook      | Head Cook        | —                  | Household Members |
-| Cool and slice pizza    | Prep Cook      | Head Cook        | —                  | Household Members |
-| Clean workspace         | Prep Cook      | Head Cook        | —                  | Household Members |
+### Scope
+This SOP applies to individuals preparing pizza using standard kitchen equipment in a residential environment.
 
-* The Accountability Matrix defines roles and responsibilities to ensure each step of the process is completed efficiently and consistently.
+### Objectives
+- Prepare fresh pizza dough  
+- Assemble two pizza varieties  
+- Maintain food safety  
+- Complete within 90 minutes  
+- Serve at proper temperature  
 
+---
 
-## 3. Safety 
-* Wash hands before handling food
-* Use oven mitts when handling hot trays
-* Avoid contact with hot surfaces
-* Ensure proper food hygiene practices
+## 3. Document Approval
 
-## 4. Step-by-Step Guide 
-### Step 1: Ingredients 
-* Gathering all the ingredients beforehand ensures efficiency
-* 500g bread flour
-* 325 ml warm water
-* 10g salt
-* 3g active dry yeast
-* Tomato sauce, cheese, and toppings of choice
+| Role     | Name    | Date       |
+|----------|--------|------------|
+| Author   | Group 5 | 04/01/2026 |
+| Reviewer | Felix   | 04/01/2026 |
 
+---
 
-### Step 2: Dough Mixing and Kneading 
-* Combine flour, yeast, warm water, and salt in a mixing bowl
-* Knead the mixture for 8 - 10 minutes until a smooth dough forms
-* Proper kneading gives the crust its structure
+## 4. Revision History
+
+| Version | Date           | Description              |
+|--------|----------------|--------------------------|
+| 1.0    | April 1, 2026  | Initial document release |
+| 0.9    | March 29, 2026 | Draft review comments    |
+| 0.5    | March 27, 2026 | Initial draft creation   |
+
+---
+
+## 5. Accountability Matrix (RACI)
+
+| Process Step            | Head Cook | Prep Cook | Household Members |
+|------------------------|----------|-----------|-------------------|
+| Gather Ingredients     | A        | R         | C                 |
+| Prepare Dough          | A        | R         | -                 |
+| Preheat Oven           | A        | R         | -                 |
+| Shape Dough            | A        | R         | -                 |
+| Add Sauce & Toppings   | A        | R         | C                 |
+| Bake Pizza             | A        | R         | I                 |
+| Cool and Slice Pizza   | A        | R         | I                 |
+| Clean Workspace        | A        | R         | I                 |
+
+---
+
+## 6. Materials and Ingredients (For 4 People)
+
+### Dough Ingredients
+
 ![Dough Kneading Process](HandsKneadingPizzaDough.jpg)
-*Figure 1: Dough being kneaded until smooth and elastic*
 
-### Step 3: Proof the Dough 
-* Place the dough in a bowl coated with teaspoon of oil
-* Cover the bowl with a plastic wrap or a damp towel
-*  Let the dough sit in a warm spot for 90 - 120 minutes or unti it has doubled in size
-  
- ![Pizza Proof](pizzapoof.jpg)
+| Ingredient         | Quantity |
+|-------------------|----------|
+| All-purpose flour | 3 cups   |
+| Warm water        | 1 cup    |
+| Active dry yeast  | 2¼ tsp   |
+| Sugar             | 2 tsp    |
+| Salt              | 1 tsp    |
+| Olive oil         | 2 tbsp   |
 
- *Figure 2:Proofing of the dough*
+---
 
-### Step 4: Preheat the Oven 
-* Preheat the over to
-* A properly heated oven ensures even cooking and a crisp crust
+### Veggie Pizza Toppings
 
-### Step 5: Shape the Dough 
-* Divide the dough, and gently press it into a circular shape using your fingertips
-* Avoid using a rolling pin excessively, as it may
-  
-![Shaping the dough](shapedough.jpg)
+![Veggie Ingredients](https://images.unsplash.com/photo-1512621776951-a57141f2eefd)
 
-*Figure 3: Shaping of the dough with fingertips*
+| Ingredient        | Quantity |
+|------------------|----------|
+| Onion            | 1 medium |
+| Green pepper     | 1 medium |
+| Tomato           | 1 medium |
+| Mushrooms        | 1 cup    |
+| Black olives     | ½ cup    |
+| Mozzarella       | 2 cups   |
 
-### Step 6: Add Sauce 
-* Spread a thin layer of tomato sauce evenly over the dough.
-* Leave a small border around the edges.
-* This prevents sogging, and maintains the crust structure.
+---
 
-### Step 7: Add Cheese and Toppings 
-* Sprinkle the cheese evenly.
-* Add other toppings as desired.
-* Avoid overloading the toppings, too much can prevent proper cooking.
+### BBQ Chicken Ingredients
 
-### Step 8. Transfer to Baking Surface 
-* Place the pizza on a greased baking tray or a pizza stone.
-* This prevents sticking and ensures even heat distribution
+![BBQ Chicken Prep](https://images.unsplash.com/photo-1600891964599-f61ba0e24092)
 
-### Step 9: Bake the Pizza 
-* Bake in the preheated oven for 10 - 15 minutes, or until the crust is golden brown, and the cheese is melted and bubbling, with a hint of golden brown.
-* This ensure the pizza is fully cooked and safe to eat.
+| Ingredient              | Quantity |
+|------------------------|----------|
+| Cooked chicken         | 1.5 cups |
+| BBQ sauce              | ½ cup    |
+| Red onion              | 1 medium |
+| Green pepper           | 1 medium |
+| Cheddar cheese         | 2 cups   |
 
-### Step 10: Cool and Slice 
-* Remove the pizza using oven mitts, and allow it to cool for 2 - 3 minutes.
-* Slice using a knife or a pizza cutter, and serve.
-* Cooling helps the cheese set for cleaner slices.
+---
 
-![Final Result](finalpizza.jpg)
+## 7. Procedure
 
-*Figure 4: Final Product of Pizza*
+### 7.1 Dough Preparation
 
-## 5. Process Flow 
-![Pizza Process Flow](processflow.png)
-*Figure 5: Process flow diagram for homemade pizza perparation*
+![Kneading Dough](https://images.unsplash.com/photo-1604908177225-6fbd3c54e3e1)
+
+1. Activate yeast  
+2. Mix dry ingredients  
+3. Knead dough  
+4. Let dough rise  
+
+---
+
+### 7.2 Sauce Preparation
+
+![Tomato Sauce](https://images.unsplash.com/photo-1585238342024-78d387f4a707)
+
+- Mix tomatoes, garlic, herbs  
+- Rest sauce for flavor  
+
+---
+
+### 7.3 Veggie Pizza Assembly
+
+![Veggie Pizza](https://images.unsplash.com/photo-1548365328-9f547fb0953f)
+
+1. Roll dough  
+2. Add sauce  
+3. Add cheese  
+4. Add vegetables  
+5. Final cheese layer  
+
+---
+
+### 7.4 BBQ Chicken Pizza Assembly
+
+![BBQ Chicken Pizza](https://images.unsplash.com/photo-1594007654729-407eedc4be65)
+
+1. Roll dough  
+2. Add BBQ sauce  
+3. Add cheese  
+4. Add chicken & toppings  
+5. Final drizzle  
+
+---
+
+## 8. Baking and Serving
+
+![Pizza in Oven](https://images.unsplash.com/photo-1600891964599-f61ba0e24092)
+
+- Bake at **450°F (230°C)**  
+- 10–15 minutes  
+- Golden crust and bubbling cheese  
+
+---
+
+## 9. Serving and Final Checks
+
+![Serving Pizza](https://images.unsplash.com/photo-1548365328-9f547fb0953f)
+
+1. Cool 2–3 minutes  
+2. Slice into 8 pieces  
+3. Serve immediately  
+
+---
+
+## 10. Quality and Safety
+
+- Wash hands  
+- Cook chicken to 165°F  
+- Avoid cross-contamination  
+- Clean workspace  
+
+---
+
+## 11. Conclusion
+
+This SOP ensures consistent, safe, and high-quality pizza preparation in a home kitchen environment, producing two pizzas suitable for four people.
+
+---
+
+## 12. References (APA)
+
+- USDA. (2020). Safe Minimum Internal Temperature Chart  
+- FDA. (2017). Food Code  
+- McGee, H. (2004). On Food and Cooking  
+
